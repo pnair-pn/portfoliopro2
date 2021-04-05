@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    justify-content: center;
+}
+
+/** {
+    border: transparent;
+}*/
+.header{
+    background-color: rgb(136, 223, 136);
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+.top{
+    display: flex;
+    justify-content: space-evenly;
+}
